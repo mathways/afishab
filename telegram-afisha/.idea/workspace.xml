@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b271eea5-0f9b-42ae-a46d-67f216ffd715" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="ece2673f-9faa-42d4-816f-70bd57925d57" />
+  <component name="ProjectId" id="1iq40LYCyOMtdm6C21C7oOZ7FNQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b271eea5-0f9b-42ae-a46d-67f216ffd715" name="Default Changelist" comment="" />
+      <created>1602621564787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602621564787</updated>
+      <workItem from="1602621566296" duration="5371000" />
+      <workItem from="1602649787676" duration="936000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="595" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602650236717">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state x="595" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.0.1850.1080@70.0.1850.1080" timestamp="1602650236717" />
+    <state width="235" height="500" key="HiddenNamespacesPopup" timestamp="1602650206811">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state width="235" height="500" key="HiddenNamespacesPopup/70.0.1850.1080@70.0.1850.1080" timestamp="1602650206811" />
+  </component>
+</project>
