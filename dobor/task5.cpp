@@ -17,13 +17,12 @@ void solve(std::vector<std::stack<int>> &arr, int from, int to, int val) {
 }
  
 int main() {
-    int n;
-    std::cin >> n;
+    const int count = 8;
     std::vector<std::stack<int>> arr(3);
  
-    for (int i = n; i > 0; --i) {
+    for (int i = count; i > 0; --i) {
         arr[0].push(i);
     }
  
-    solve(arr, 0, 2, n);
+    solve(arr, 0, 2, count);
 }
